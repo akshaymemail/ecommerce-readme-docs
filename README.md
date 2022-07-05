@@ -1,6 +1,4 @@
-# E-Commerce API Docs
-
-API requirements of a ecommerce app
+# API requirements of a ecommerce app
 
 ## PRODUCTS AND CATEGORIES
 
