@@ -18,7 +18,7 @@ response : [
 ]
 ```
 
-Category product
+Product Category
 
 ```
 Method : GET https://api.domain.com/v1/category/1
